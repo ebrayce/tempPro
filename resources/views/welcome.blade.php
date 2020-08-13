@@ -12,6 +12,7 @@
                         <router-view></router-view>
 {{--                       <example-component></example-component>--}}
                         <vue-progress-bar></vue-progress-bar>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam, deserunt ea eligendi exercitationem minima neque, quas quos, sed veniam veritatis voluptas. Culpa cupiditate dolor eaque enim ipsa, quisquam voluptatibus!</p>
                     </div>
                 </div>
             </div>
